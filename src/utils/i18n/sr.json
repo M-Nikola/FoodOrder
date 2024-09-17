@@ -1,0 +1,79 @@
+{
+  "button": {
+    "next": "Sledeci korak",
+    "back": "Nazad",
+    "addToCard": "Dodaj u korpu",
+    "goToCheckout": "Idi na Checkout",
+    "orderMore": "Naruci jos",
+    "proceedToCheckout": "Nastavi na Checkout",
+    "startOrder": "Pocni sa narucivanjem",
+    "backToCart": "Nazad u korpu",
+    "placeOrder": "Poruci",
+    "ok": "Ok"
+  },
+  "common": {
+    "step": "Korak",
+    "of": "od"
+  },
+  "home": {
+    "home": "Kuca",
+    "step1": {
+      "title": "Kreiraj svoju poke bowl",
+      "description": "Selektuj tip cinije, velicinu, osnovu, sos i ostale stastojke. Ostalo prepusti nama!"
+    },
+    "step2": {
+      "pickSize": "Odaberi velicinu",
+      "pickBase": "Odaberi osnovu",
+      "pickSauce": "Odaberi sos",
+      "pickIngredients": "Odaberi ostale sastojke",
+      "pickIngredientsDescription": "Odaberi do 5, 8 ili 10 stastojaka u zavisnosti od velicine cinije.",
+      "maximumIngredients": "Izabrali ste maximalan broj sastajoka za odabranu velicinu cinije."
+    },
+    "step3": {
+      "title": "Odaberi dodatne sastojke",
+      "description": "Bilo da hocete jos sashimi-ja ili neki stastojak koji zelite da isprobate, slobodno dodajte sta god zelite.",
+      "regularPrice": "Regularna cena",
+      "extraIngredientsPrice": "Cena sa dodacima"
+    },
+    "step4": {
+      "size": "velicina",
+      "base": "osnova",
+      "addedIngredients": "Dodati sastojci:",
+      "fullPrice": "Puna Cena:"
+    }
+  },
+  "cart": {
+    "cart": "Korpa",
+    "subtotal": "Medjuzbir",
+    "deliveryFee": "Cena dostave",
+    "total": "Ukupno",
+    "emptyCart": "Tvoja korpa je prazna. Klikni ",
+    "here": "ovde",
+    "startOrdering": " i pocni sa narucivanjem."
+  },
+  "checkout": {
+    "title": "Detalji Dostave",
+    "fullname": "Puno ime",
+    "fullnamePlaceholder": "Peter Pan",
+    "address": "Adresa",
+    "addressPlaceholder": "e.g 24 Main street, LA",
+    "phone": "Telefon",
+    "phonePlaceholder": "e.g +61 434561230",
+    "note": "Napomena",
+    "notePlaceholder": "Napisi napomenu",
+    "orderSummary": "Rezime porudzbine",
+    "with": "Sa:",
+    "freeDelivery": "Besplatna dostava",
+    "total": "Ukupno",
+    "required": "Obavezno polje",
+    "emailInvalid": "Nevalidna email adresa",
+    "phoneInvalid": "Broj telefona mora da sadrzi bar 8 karaktera",
+    "cashOrCard": "Kes ili Kartica",
+    "choosePaymentMethod": "Izaberi metodu za placanje",
+    "cash": "Kes",
+    "card": "Kartica",
+    "invalidPayment": "Nevalidan tip placanja",
+    "order": "Porudzbina",
+    "successfulOrder": "Porudzbina uspesno kreirana"
+  }
+}

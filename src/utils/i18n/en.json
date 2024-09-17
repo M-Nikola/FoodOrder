@@ -1,0 +1,79 @@
+{
+  "button": {
+    "next": "Next",
+    "back": "Back",
+    "addToCard": "Add to Cart",
+    "goToCheckout": "Go to checkout",
+    "orderMore": "Order More",
+    "proceedToCheckout": "Proceed to Checkout",
+    "startOrder": "Start Ordering",
+    "backToCart": "Back to Cart",
+    "placeOrder": "Place Order",
+    "ok": "Ok"
+  },
+  "common": {
+    "step": "Step",
+    "of": "of"
+  },
+  "home": {
+    "home": "Home",
+    "step1": {
+      "title": "Make your own poke bowl",
+      "description": "Select the type of bowl your’d like, the size, add the base, sauce and all the added ingredients. We’ll take care of the rest!"
+    },
+    "step2": {
+      "pickSize": "Pick a size",
+      "pickBase": "Pick the base",
+      "pickSauce": "Pick a sauce",
+      "pickIngredients": "Pick other ingredients",
+      "pickIngredientsDescription": "Pick up to 5, 8 or 10 ingredients based on bowl size.",
+      "maximumIngredients": "You’ve chosen the maximum amout of ingrediants for a selected bowl size."
+    },
+    "step3": {
+      "title": "Pick an extra ingredient",
+      "description": "Weather its more sashimi or an ingrediant you’d like to try out, feel free to add whatever you’d like.",
+      "regularPrice": "Regular Price",
+      "extraIngredientsPrice": "Price with extra ingredients"
+    },
+    "step4": {
+      "size": "size",
+      "base": "base",
+      "addedIngredients": "Added ingredients:",
+      "fullPrice": "Full Price:"
+    }
+  },
+  "cart": {
+    "cart": "Cart",
+    "subtotal": "Subtotal",
+    "deliveryFee": "Delivery fee",
+    "total": "Total",
+    "emptyCart": "Your cart is empty. Click ",
+    "here": "here",
+    "startOrdering": " to start ordering."
+  },
+  "checkout": {
+    "title": "Delivery Details",
+    "fullname": "Full name",
+    "fullnamePlaceholder": "Peter Pan",
+    "address": "Address",
+    "addressPlaceholder": "e.g 24 Main street, LA",
+    "phone": "Phone number",
+    "phonePlaceholder": "e.g +61 434561230",
+    "note": "Note",
+    "notePlaceholder": "Write a note",
+    "orderSummary": "Order summary",
+    "with": "With:",
+    "freeDelivery": "Free delivery",
+    "total": "Total",
+    "required": "Required",
+    "emailInvalid": "Invalid email address",
+    "phoneInvalid": "Phone number must be at least 8 characters",
+    "cashOrCard": "Cash or Card",
+    "choosePaymentMethod": "Choose a payment method",
+    "cash": "Cash",
+    "card": "Card",
+    "invalidPayment": "Invalid Payment Type",
+    "order": "Order",
+    "successfulOrder": "Order successfully created"
+  }
+}
